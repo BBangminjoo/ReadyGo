@@ -261,7 +261,7 @@
 <thead>
 <tr>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/민채.png"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/민채.png" width="100%" height="100" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/인실.png"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/인실.png" width="100%" height="100" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/43850f47-55f5-400f-89e1-59f650746d00"><img src="https://github.com/user-attachments/assets/43850f47-55f5-400f-89e1-59f650746d00" width="100%" height="100" style="max-width: 100%;"></a></th>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/윤희.png"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/윤희.png" width="100%" height="100" style="max-width: 100%;"></a></th>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/세건.jpg"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/세건.jpg" width="100%" height="100" style="max-width: 100%;"></a></th>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/서희.jpg"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/서희.jpg" width="100%" height="100" style="max-width: 100%;"></a></th>
