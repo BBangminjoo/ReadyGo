@@ -260,24 +260,24 @@
 <markdown-accessiblity-table data-catalyst=""><table tabindex="0">
 <thead>
 <tr>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/1ba0edf3-4156-474a-b536-2ebe03acf347"><img src="https://github.com/user-attachments/assets/1ba0edf3-4156-474a-b536-2ebe03acf347" width="100%" height="100" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/b8b9452f-860b-4352-9be8-164471a001ff"><img src="https://github.com/user-attachments/assets/b8b9452f-860b-4352-9be8-164471a001ff" width="100%" height="100" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/39d46fe6-e4ae-4a99-8f1f-bc523dd29416"><img src="https://github.com/user-attachments/assets/39d46fe6-e4ae-4a99-8f1f-bc523dd29416" width="100%" height="100" style="max-width: 100%;"></a></th>    
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/6ec09cd6-c3bd-4af0-ac9c-38cee4c1e995"><img src="https://github.com/user-attachments/assets/6ec09cd6-c3bd-4af0-ac9c-38cee4c1e995" width="100%" height="100" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/dbd2bdea-8a7d-480c-bbb7-60ec556450ca"><img src="https://github.com/user-attachments/assets/dbd2bdea-8a7d-480c-bbb7-60ec556450ca" width="100%" height="100" style="max-width: 100%;"></a></th> 
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/43850f47-55f5-400f-89e1-59f650746d00"><img src="https://github.com/user-attachments/assets/43850f47-55f5-400f-89e1-59f650746d00" width="100%" height="100" style="max-width: 100%;"></a></th>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/02a408f4-d6b5-46dd-87ff-2229a22fcf1b"><img src="https://github.com/user-attachments/assets/02a408f4-d6b5-46dd-87ff-2229a22fcf1b" width="100%" height="100" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/b8b9452f-860b-4352-9be8-164471a001ff"><img src="https://github.com/user-attachments/assets/b8b9452f-860b-4352-9be8-164471a001ff" width="100%" height="100" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/1ba0edf3-4156-474a-b536-2ebe03acf347"><img src="https://github.com/user-attachments/assets/1ba0edf3-4156-474a-b536-2ebe03acf347" width="100%" height="100" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/39d46fe6-e4ae-4a99-8f1f-bc523dd29416"><img src="https://github.com/user-attachments/assets/39d46fe6-e4ae-4a99-8f1f-bc523dd29416" width="100%" height="100" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/dbd2bdea-8a7d-480c-bbb7-60ec556450ca"><img src="https://github.com/user-attachments/assets/dbd2bdea-8a7d-480c-bbb7-60ec556450ca" width="100%" height="100" style="max-width: 100%;"></a></th>    
 </tr>
 </thead>
 <tbody>
 <tr>
+<td align="center">서성배</td>
+<td align="center">방민주</td>
+<td align="center">이수현</td>
 <td align="center">김동오</td>
+<td align="center">조영은</td>
 <td align="center">김민구</td>
 <td align="center">박정인</td>
-<td align="center">방민주</td>
-<td align="center">서성배</td>
-<td align="center">이수현</td>
-<td align="center">조영은</td>
 </tr>
 <tr>
 <td align="center">Backend, Frontend</td>
@@ -289,13 +289,13 @@
 <td align="center">Backend, Frontend</td>    
 </tr>
 <tr>
-<td align="center">TA <br> 관리자 <br> 화면 구현 및 API 연동</td>
-<td align="center">DA <br> 구직자 <br> 화면 구현 및 API 연동</td>
-<td align="center">UA <br> 구직자 <br> 화면 구현 및 API 연동</td>
-<td align="center">AA <br> 기업 <br> 화면 구현 및 API 연동</td>
-<td align="center">PL <br> 기업 <br> 화면 구현 및 API 연동</td>
-<td align="center">AA <br> 구직자 <br> 화면 구현 및 API 연동</td>    
-<td align="center">TA <br> 외주 <br> 화면 구현 및 API 연동</td>
+<td align="center"><b>PL</b> <br> 기업 <br> 화면 구현 및 API 연동</td>
+<td align="center"><b>AA</b> <br> 기업 <br> 화면 구현 및 API 연동</td>
+<td align="center"><b>AA</b> <br> 구직자 <br> 화면 구현 및 API 연동</td>    
+<td align="center"><b>TA</b> <br> 관리자 <br> 화면 구현 및 API 연동</td>
+<td align="center"><b>TA</b> <br> 외주 <br> 화면 구현 및 API 연동</td>    
+<td align="center"><b>DA</b> <br> 구직자 <br> 화면 구현 및 API 연동</td>
+<td align="center"><b>UA</b> <br> 구직자 <br> 화면 구현 및 API 연동</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
