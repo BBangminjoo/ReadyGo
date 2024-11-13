@@ -1,7 +1,0 @@
-package kr.or.ddit.mapper;
-
-import kr.or.ddit.vo.UserVO;
-
-public interface UserMapper {
-	public UserVO userLogin(String username);
-}
