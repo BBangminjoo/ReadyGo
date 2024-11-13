@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ ATS(채용연계사이트) </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 💡 <strong>Slogan : </strong>가능성은 무한, 준비는 Ready Go! 💡 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"><strong>Slogan : </strong>가능성은 무한, 준비는 Ready Go!</div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 프로젝트 요약 </h2>  
