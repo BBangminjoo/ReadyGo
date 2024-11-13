@@ -266,6 +266,7 @@
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/세건.jpg"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/세건.jpg" width="100%" height="100" style="max-width: 100%;"></a></th>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/서희.jpg"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/서희.jpg" width="100%" height="100" style="max-width: 100%;"></a></th>
 <th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/민우.png"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/민우.png" width="100%" height="100" style="max-width: 100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="/PARKSEGUN/Trabean/blob/main/exec/img/민우.png"><img src="/PARKSEGUN/Trabean/raw/main/exec/img/민우.png" width="100%" height="100" style="max-width: 100%;"></a></th>    
 </tr>
 </thead>
 <tbody>
