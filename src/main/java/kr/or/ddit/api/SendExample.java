@@ -23,8 +23,7 @@ public class SendExample {
 
     public SendExample() {
         // 반드시 계정 내 등록된 유효한 API 키, API Secret Key를 입력해주셔야 합니다!
-//        this.messageService = NurigoApp.INSTANCE.initialize("NCSPI7VGGAN7ASWV", "UUO682DJUYIX0DKFNUXVEDPREFNFV6QW", "https://api.coolsms.co.kr");
-        this.messageService = NurigoApp.INSTANCE.initialize("NCSM7B35GO0ONPNW", "VSOJWLXBHVCTHH5FRAZP6KNEUBUOBGIZ", "https://api.coolsms.co.kr");
+
     }
 
 //    /**
