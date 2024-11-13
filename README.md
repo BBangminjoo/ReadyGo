@@ -7,8 +7,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 프로젝트 요약 </h2>  
-        <h4>1️⃣ 회원 메인 화면</h4><img src="https://github.com/user-attachments/assets/9b6d32bf-cb64-4678-ac8a-e973084585cc">
-        <br><h4>2️⃣ 기업 메인 화면</h4><img src="https://github.com/user-attachments/assets/8f5d15f9-7b22-4825-9112-b3d507d7459f">
+        <h4>1️⃣ 회원 메인 화면</h4><img src="https://github.com/user-attachments/assets/968e4698-076e-4187-8fef-0b074c8a451d">
+        <br><h4>2️⃣ 기업 메인 화면</h4><img src="https://github.com/user-attachments/assets/977be6cb-0c4b-4e6e-942a-8778e4c576b4">
         <br><h4>3️⃣ 관리자 메인 화면</h4><img src="https://github.com/user-attachments/assets/6ce2974c-0994-4188-984b-d063b40fb2a4">
         <br><br><br>
         <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
