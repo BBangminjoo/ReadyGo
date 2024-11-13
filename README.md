@@ -21,6 +21,10 @@
         </ul> 
     </div> 
     <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📑 산출물 </h2>  
+    <h4>1️⃣ ER-다이어그램</h4><img src="https://github.com/user-attachments/assets/4e53f42f-1d3a-46cd-96fd-9cf72084a1b5">
+    </div>        
+    <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📅 프로젝트 기간 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 1️⃣ <strong>산출물 : </strong>2024.08.22 ~ 2024.09.11 </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2️⃣ <strong>개발 : </strong>2024.09.11 ~ 2024.10.21 </div> 
