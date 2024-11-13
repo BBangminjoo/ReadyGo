@@ -255,7 +255,7 @@
     
 
 <div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ ATS(채용연계사이트) </h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💁‍♀️ 팀원 소개 </h2>  
 <div> 
 <markdown-accessiblity-table data-catalyst=""><table tabindex="0">
 <thead>
@@ -270,28 +270,30 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">김민채</td>
-<td align="center">김인실</td>
-<td align="center">남윤희</td>
-<td align="center">박세건</td>
-<td align="center">서희</td>
-<td align="center">육민우</td>
+<td align="center">김동오</td>
+<td align="center">김민구</td>
+<td align="center">박정인</td>
+<td align="center">방민주</td>
+<td align="center">서성배</td>
+<td align="center">이수현</td>
+<td align="center">조영은</td>
 </tr>
 <tr>
 <td align="center">Backend, Frontend</td>
 <td align="center">Backend, Frontend</td>
 <td align="center">Backend, Frontend</td>
-<td align="center">Backend, Infra</td>
+<td align="center">Backend, Frontend</td>
 <td align="center">Backend, Frontend</td>
 <td align="center">Backend, Frontend</td>
 </tr>
 <tr>
-<td align="center">기획, DB설계, <br> 화면 디자인 <br> 결제 로직 구현 (payment) <br> 화면 구현 및 API 연동 <br> (결제, 가계부)</td>
-<td align="center">기획, DB설계, <br> 캐릭터 및 화면 디자인 <br> 챗봇 구현 (chatbot) <br> 화면 구현 및 API 연동 <br> (통장 개설, 챗봇)</td>
-<td align="center">기획, DB설계, <br> 화면 디자인 <br> Security 로그인, <br> 회원 관련 API 구현 (user) <br> 화면 구현 및 API 연동 <br> (계좌이체, N빵, 환율)</td>
-<td align="center">기획, DB설계 <br> Infra, CI/CD <br> 알림 기능 구현 (notification)</td>
-<td align="center">기획, DB설계, <br> 화면 디자인 <br> 여행통장 및 환율 API 구현 (travel) <br> 화면 구현 및 API 연동 <br> (회원, 메인페이지, 알림)</td>
-<td align="center">기획, DB설계, <br> 화면 디자인 <br> 통장 공통 기능 API 구현 (account) <br> 화면 구현 및 API 연동 (여행통장)</td>
+<td align="center">TA <br> 관리자 및 게시판<br> 화면 구현 및 API 연동</td>
+<td align="center">DA <br> 구직자 <br> 화면 구현 및 API 연동</td>
+<td align="center">UA <br> 구직자 <br> 화면 구현 및 API 연동</td>
+<td align="center">AA <br> 기업 <br> 화면 구현 및 API 연동</td>
+<td align="center">PL <br> 기업 <br> 화면 구현 및 API 연동</td>
+<td align="center">AA <br> 구직자 <br> 화면 구현 및 API 연동</td>    
+<td align="center">TA <br> 외주 <br> 화면 구현 및 API 연동</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
