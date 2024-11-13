@@ -286,6 +286,7 @@
 <td align="center">Backend, Frontend</td>
 <td align="center">Backend, Frontend</td>
 <td align="center">Backend, Frontend</td>
+<td align="center">Backend, Frontend</td>    
 </tr>
 <tr>
 <td align="center">TA <br> 관리자 및 게시판<br> 화면 구현 및 API 연동</td>
