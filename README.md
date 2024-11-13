@@ -249,6 +249,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Knowledge sharing </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/1-Ready-Go-185f9c7e13ba41fb91b8de9e5cc63fd7> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/1-Ready-Go-185f9c7e13ba41fb91b8de9e5cc63fd7"> </a>
           </div>  <br> 
-    <div style="text-align: left;"> <a href=https://drive.google.com/drive/folders/19oIT0N0j0IHzIjdjmLAvE57pR2dZgN9a><img src="https://img.shields.io/badge/Google-#ffd9df?style=for-the-badge&logo=Google&logoColor=white&link="https://drive.google.com/drive/folders/19oIT0N0j0IHzIjdjmLAvE57pR2dZgN9a"> </a> </div> 
+    <div style="text-align: left;"> <a href=https://drive.google.com/drive/folders/19oIT0N0j0IHzIjdjmLAvE57pR2dZgN9a><img src="https://img.shields.io/badge/Google-ffd9df?style=for-the-badge&logo=Google&logoColor=white&link="https://drive.google.com/drive/folders/19oIT0N0j0IHzIjdjmLAvE57pR2dZgN9a"> </a> </div> 
     </div>
     
