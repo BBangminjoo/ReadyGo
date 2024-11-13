@@ -289,7 +289,7 @@
 <td align="center">Backend, Frontend</td>    
 </tr>
 <tr>
-<td align="center">TA <br> 관리자 및 게시판<br> 화면 구현 및 API 연동</td>
+<td align="center">TA <br> 관리자 <br> 화면 구현 및 API 연동</td>
 <td align="center">DA <br> 구직자 <br> 화면 구현 및 API 연동</td>
 <td align="center">UA <br> 구직자 <br> 화면 구현 및 API 연동</td>
 <td align="center">AA <br> 기업 <br> 화면 구현 및 API 연동</td>
