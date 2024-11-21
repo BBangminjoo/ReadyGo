@@ -23,7 +23,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📑 산출물 </h2>
     <h3>산출물 작성 활용 TOOL</h3><img src="https://github.com/user-attachments/assets/b8c3cbe0-a7e0-4577-849a-52e8b796d8c7">    
-    <h4>1️⃣ ER-다이어그램</h4><img src="https://github.com/user-attachments/assets/4e53f42f-1d3a-46cd-96fd-9cf72084a1b5">
+    <h4>ER-다이어그램</h4><img src="https://github.com/user-attachments/assets/4e53f42f-1d3a-46cd-96fd-9cf72084a1b5">
     </div>        
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📅 프로젝트 기간 </h2>  
